@@ -1,2 +1,2 @@
-# customLUAsword
+# custom sword texture
 idk
