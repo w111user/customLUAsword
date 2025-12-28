@@ -1,3 +1,4 @@
+--custom sword script for easy.gg bedwars, you can replace your custom swords at line 5)
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
